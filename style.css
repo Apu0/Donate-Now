@@ -358,3 +358,96 @@ h5 {
     /* text-align: ; */
     color: #444;
 }
+
+/* ##### Updates #### */
+.box-7 {
+    width: 55%;
+    margin: 150px auto;
+}
+
+.box-7 .left-2 h1 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    padding: 0px 20px;
+    margin-left: 30px;
+}
+
+.box-7 .left-2 p {
+    text-align: center;
+    color: #444;
+    /* width: 65%; */
+    margin-bottom: 50px;
+    padding: 0px 30px;
+    margin-left: 40px;
+
+}
+
+
+
+.right-2 {
+    height: 200px;
+    width: 660px;
+    background-color: antiquewhite;
+    display: flex;
+    position: relative;
+
+
+}
+
+
+.right-2 .half-1 {
+    width: 70%;
+}
+
+.right-2 .half-2 {
+    width: 30%;
+}
+
+.left-21 h5 {
+    height: 40px;
+    width: 70%;
+    background-color: gray;
+    margin-top: 80px;
+    color: wheat;
+    margin-left: 25%;
+    border-radius: 5px;
+
+
+}
+
+h5 {
+    margin-top: 12px;
+}
+
+.right-21 h5 {
+    height: 40px;
+    width: 60%;
+    background-color: rgb(236, 14, 14);
+    margin-top: 80px;
+    color: wheat;
+    margin-left: -60%;
+    border-radius: 5px;
+}
+
+
+/* ### Footer Section ##### */
+
+.footer {
+    width: 100%;
+    height: 150px;
+    background-color: #000;
+    padding: 5px 5px;
+}
+
+.footer h2 {
+    text-align: center;
+    margin-top: 20px;
+    color: orange;
+    margin-bottom: 20px;
+}
+
+.footer p {
+    text-align: center;
+    color: white;
+}
