@@ -166,7 +166,7 @@ h5 {
     text-align: center;
     margin-left: 20%;
     color: #333;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
 }
 
 .box-3 {
@@ -175,11 +175,13 @@ h5 {
     gap: 15px;
     height: 350px;
     padding: 10px;
+    /* border-radius: 5px; */
 }
 
 .box-one {
     /* border: 2px solid red; */
     background-color: rgba(128, 128, 128, 0.247);
+    border-radius: 1%;
 }
 
 .box-one img {
@@ -203,6 +205,7 @@ h5 {
 .box-two {
     /* border: 2px solid red; */
     background-color: rgba(218, 112, 214, 0.151);
+    border-radius: 1%;
 }
 
 .box-two img {
@@ -226,6 +229,7 @@ h5 {
 .box-three {
     /* border: 2px solid red; */
     background-color: rgba(255, 68, 0, 0.185);
+    border-radius: 1%;
 }
 
 .box-three img {
@@ -244,4 +248,65 @@ h5 {
     /* margin-top: 35px; */
     padding: 10px;
     margin-bottom: 5px;
+    /* text-align: center; */
+}
+
+
+/* ### How to Contribute  #### */
+
+.box-4 {
+    display: flex;
+    margin-top: 100px;
+    gap: 50px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.box-4 .left-1 h1 {
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.left-1 p {
+    margin-top: 20px;
+    color: #222;
+    margin-bottom: 30px;
+}
+
+.box-4 .left-1 .btn {
+    text-decoration: none;
+    padding: 15px 20px;
+    color: white;
+    background-color: orangered;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.right-1 img {
+    width: 450px;
+    height: 450px;
+    border-radius: 2%;
+}
+
+.box-5 {
+    display: flex;
+    gap: 50px;
+    margin-top: 110px;
+}
+
+.box-5 .leftt {
+    margin-top: 50px;
+}
+
+.box-5 .left-1 .btn {
+    text-decoration: none;
+    padding: 15px 20px;
+    color: white;
+    background-color: orangered;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 700;
 }
