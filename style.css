@@ -146,3 +146,102 @@ h5 {
     cursor: pointer;
     font-weight: 700;
 }
+
+
+/* ###### Our Donate Plan Part #### */
+
+.Our-Donate-Plan {
+    height: 90vh;
+    width: 100%;
+}
+
+.Our-Donate-Plan h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.Our-Donate-Plan .right {
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+.box-3 {
+    display: flex;
+    /* border: 2px solid rebeccapurple; */
+    gap: 15px;
+    height: 350px;
+    padding: 10px;
+}
+
+.box-one {
+    /* border: 2px solid red; */
+    background-color: rgba(128, 128, 128, 0.247);
+}
+
+.box-one img {
+    margin-top: 35px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.box-one h2 {
+    /* margin-top: 35px; */
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.box-one p {
+    /* margin-top: 35px; */
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.box-two {
+    /* border: 2px solid red; */
+    background-color: rgba(218, 112, 214, 0.151);
+}
+
+.box-two img {
+    margin-top: 35px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.box-two h2 {
+    /* margin-top: 35px; */
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.box-two p {
+    /* margin-top: 35px; */
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.box-three {
+    /* border: 2px solid red; */
+    background-color: rgba(255, 68, 0, 0.185);
+}
+
+.box-three img {
+    margin-top: 35px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.box-three h2 {
+    /* margin-top: 35px; */
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.box-three p {
+    /* margin-top: 35px; */
+    padding: 10px;
+    margin-bottom: 5px;
+}
