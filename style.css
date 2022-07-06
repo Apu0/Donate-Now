@@ -383,25 +383,19 @@ h5 {
 
 }
 
-
-
 .right-2 {
     height: 200px;
     width: 660px;
     background-color: antiquewhite;
     display: flex;
-    position: relative;
-
-
 }
-
 
 .right-2 .half-1 {
     width: 70%;
 }
 
 .right-2 .half-2 {
-    width: 30%;
+    width: 40%;
 }
 
 .left-21 h5 {
@@ -416,9 +410,6 @@ h5 {
 
 }
 
-h5 {
-    margin-top: 12px;
-}
 
 .right-21 h5 {
     height: 40px;
@@ -426,8 +417,8 @@ h5 {
     background-color: rgb(236, 14, 14);
     margin-top: 80px;
     color: wheat;
-    margin-left: -60%;
-    border-radius: 5px;
+    margin-left: -10%;
+    border-radius: 0px 5px 5px 0px;
 }
 
 
