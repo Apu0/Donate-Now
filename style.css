@@ -388,17 +388,45 @@ h5 {
     width: 660px;
     background-color: antiquewhite;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.right-2 .half-1 {
+.right-2 .left-21 input {
+    padding: 10px;
+    background-color: aqua;
+    color: black;
+    border: none;
+    outline: none;
+    font-size: 18px;
+
+}
+
+.right-2 .right-21 input {
+    padding: 10px;
+    background-color: brown;
+    color: yellow;
+    border: none;
+    outline: none;
+    text-align: center;
+    font-size: 18px;
+
+
+}
+
+.right-2 .right-21 input ::placeholder {
+    color: crimson;
+}
+
+/* .right-2 .half-1 {
     width: 70%;
 }
 
 .right-2 .half-2 {
     width: 40%;
-}
+} */
 
-.left-21 h5 {
+/* .left-21 h5 {
     height: 40px;
     width: 70%;
     background-color: gray;
@@ -408,10 +436,10 @@ h5 {
     border-radius: 5px;
 
 
-}
+} */
 
 
-.right-21 h5 {
+/* .right-21 h5 {
     height: 40px;
     width: 60%;
     background-color: rgb(236, 14, 14);
@@ -419,7 +447,8 @@ h5 {
     color: wheat;
     margin-left: -10%;
     border-radius: 0px 5px 5px 0px;
-}
+} */
+
 
 
 /* ### Footer Section ##### */
